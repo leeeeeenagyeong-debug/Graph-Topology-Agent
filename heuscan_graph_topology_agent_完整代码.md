@@ -1,6 +1,4 @@
-# heuScan 图谱聚合模块（Graph & Topology Agent）— 完整代码汇总
-
-单文件汇总，按需复制到工程。不修改你仓库内任何原文档。
+# heuScan 图谱聚合模块（Graph & Topology Agent）—
 
 ---
 
